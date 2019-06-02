@@ -49,10 +49,7 @@ li{
   transition: .5s;
 }
 
-li:hover{
-  color: #292929;
-  border: 1px solid #292929;
-}
+
 
 .media{
 
